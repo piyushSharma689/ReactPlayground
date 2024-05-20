@@ -76,6 +76,7 @@ function App(){
 return(<>
 <center>
 <h1>ARRAY STATE PRACTICE</h1>
+<p>Added on github</p>
 <hr />
   <input type="text" value={value} onKeyDown={handleKey} onChange={e=>{
     setvalue(e.target.value);
