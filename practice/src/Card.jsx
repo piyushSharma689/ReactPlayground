@@ -5,6 +5,7 @@ function Card(props) {
   return (
    <>
    <div className="card">
+   
         Name: {props.name} <br /><br />
         Phone: {props.mob} <br /><br />
         Address: {props.add} <br />

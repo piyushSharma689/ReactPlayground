@@ -32,7 +32,7 @@ function Details() {
   }
 
   return (
-    <>
+    <><center>
       <input
         value={value.name}
         type="text"
@@ -53,8 +53,9 @@ function Details() {
         onChange={(e) => setvalue({ ...value, add: e.target.value })}
         onKeyDown={handlekey}
         placeholder="Address"
-      />
+      /> <br />
       <button onClick={() => sets(!s)}>Submit</button>
+      </center>
       <div className="container">
         {infoArr.map((item, index) => {
           return (

@@ -71,7 +71,7 @@ export default function ArrayState(){
 return(<>
 <center>
 <hr />
-<h1>ARRAY STATE PRACTICE</h1>
+<h1>ARRAY STATE</h1>
 <p>Added on github</p>
   <input type="text" value={value} onKeyDown={handleKey} onChange={e=>{
     setvalue(e.target.value);
