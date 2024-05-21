@@ -37,16 +37,16 @@ Provided by @thegetall
 ├──────21. Counter With Name Project Introduction@
 ├──────22. Counter With Name Project Walkthrough@
 ├───────────────────────────────────────────────────────
-├────Component Lifecycle
-├──────23. Virtual DOM
-├──────24. Component Lifecycle
-├──────25. useEffect Hook
-├──────26. useEffect Hook Exercises Introduction
-├──────27. useEffect Hook Exercises Walkthrough
-├──────28. Class Component Lifecycle Methods
-├──────29. Class Component Lifecycle Methods Exercises Introduction
-├──────30. Class Component Lifecycle Methods Exercises Walkthrough
-├──────31. StrictMode
+├────Component Lifecycle@
+├──────23. Virtual DOM@
+├──────24. Component Lifecycle@
+├──────25. useEffect Hook@
+├──────26. useEffect Hook Exercises Introduction@
+├──────27. useEffect Hook Exercises Walkthrough@
+├──────28. Class Component Lifecycle Methods@
+├──────29. Class Component Lifecycle Methods Exercises Introduction@
+├──────30. Class Component Lifecycle Methods Exercises Walkthrough@
+├──────31. StrictMode@
 ├──────32. Fetching Data From An API
 ├───────────────────────────────────────────────────────
 ├────Advanced Components
